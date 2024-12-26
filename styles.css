@@ -1,9 +1,23 @@
 :root {
+  --primary: #0969da;
+  --violet: #a278e6;
+  --orange: #ffa94d;
+  --green: #4be0bb;
+  --yellow: #ffd700;
+  --blue-light: #56a5ff;
   --white: #fcfcfc;
+  --red: #ff5e94;
+  --gray: #edeef7;
+  --primary-light: #0969da20;
   --bg: #000000;
   --bg-column: #f6f4f5;
+  --bg-blue: #0969da20;
+  --border: #f0f0f0;
+  --border-darker: #b2b2b2;
   --column-border: #e1e1e1;
   --header-color: #6c6e6e;
+  --header-svg: #adadad;
+  --navbar-height: 60px;
   --text: #3c3c3c;
 }
 
@@ -105,4 +119,90 @@ body {
   align-items: center;
   gap: 0.45rem;
   font-size: 0.85rem;
+}
+
+.taks header svg {
+  stroke: var(--header-svg);
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+.task footer {
+  display: flex;
+  font-size: 0.85rem;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.task .profile {
+  width: 2rem;
+  height: 2rem;
+  font-size: 0.75rem;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+}
+
+.task .profile img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid var(--border-darker);
+}
+
+.task .profileJx {
+  background: var(--orange);
+}
+
+.task .profileMR {
+  background: var(--violet);
+}
+
+.task .profileCE {
+  background: var(--red);
+}
+
+.tags {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.tag {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 600;
+
+  width: 100px;
+  height: 25px;
+  border-radius: 15px;
+}
+
+span {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 600;
+}
+
+.tagFrontEnd {
+  background: var(--orange);
+}
+
+.tagBackEnd {
+  background: var(--green);
+}
+
+.tagDesign {
+  background: var(--yellow);
+}
+
+.tagDocument {
+  background: var(--blue-light);
+}
+
+.task:hover {
+  cursor: grab;
 }
