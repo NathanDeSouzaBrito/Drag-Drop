@@ -19,6 +19,17 @@ Arrastar e soltar elementos
 Código limpo e bem documentado
 
 
+Como Executar o Projeto
+
+1. Clone o repositório:
+   https://github.com/NathanDeSouzaBrito/Drag-Drop.git
+
+2. Navegue até o diretório do projeto:
+   cd Drag-Drop
+
+3. Abra o arquivo index.html no seu navegador preferido.
+
+
 >>>>>>>>>>> in English <<<<<<<<<<<<<<<<<
 
 Drag & Drop Project
@@ -38,3 +49,13 @@ Features
 Drag and drop elements
 
 Clean and well-documented code
+
+How to Run the Project
+
+1. Clone the repository:
+   https://github.com/NathanDeSouzaBrito/Drag-Drop.git
+
+2. Navigate to the project directory:
+   cd Drag-Drop
+
+3. Open the index.html file in your preferred browser.
