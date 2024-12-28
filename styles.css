@@ -17,7 +17,6 @@
   --column-border: #e1e1e1;
   --header-color: #6c6e6e;
   --header-svg: #adadad;
-  --navbar-height: 60px;
   --text: #3c3c3c;
 }
 
@@ -121,7 +120,7 @@ body {
   font-size: 0.85rem;
 }
 
-.taks header svg {
+.task header svg {
   stroke: var(--header-svg);
   width: 1.25rem;
   height: 1.25rem;
@@ -205,4 +204,12 @@ span {
 
 .task:hover {
   cursor: grab;
+}
+
+.taskChosen {
+  border: 1px solid var(--primary);
+}
+
+.taskDrag {
+  opacity: 1;
 }

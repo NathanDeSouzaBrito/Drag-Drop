@@ -16,11 +16,8 @@
     <!-- Script -->
     <script src="script.js" defer></script>
 
-    <!-- Sortable.js -->
-    <!-- <script src="https://cdn.jsdelivr.net/npm/sortablejs@latest/Sortable.min.js"></script>  SOON-->
-
     <!-- Title -->
-    <title>Document</title>
+    <title>Comandante TK</title>
   </head>
   <body>
     <div class="columns">
@@ -94,12 +91,7 @@
       <div class="column">
         <div class="columnHeader">
           <h2>Doing</h2>
-          <div class="columnActions">
-            <button type="button"><box-icon name="plus"></box-icon></button>
-            <button type="button">
-              <box-icon name="dots-horizontal-rounded"></box-icon>
-            </button>
-          </div>
+          <div class="columnActions"></div>
         </div>
         <div id="tasksDoing"></div>
       </div>
@@ -108,15 +100,13 @@
       <div class="column">
         <div class="columnHeader">
           <h2>Done</h2>
-          <div class="columnActions">
-            <button type="button"><box-icon name="plus"></box-icon></button>
-            <button type="button">
-              <box-icon name="dots-horizontal-rounded"></box-icon>
-            </button>
-          </div>
+          <div class="columnActions"></div>
         </div>
         <div id="tasksDone"></div>
       </div>
     </div>
+
+    <!-- Sortable.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js"></script>
   </body>
 </html>
