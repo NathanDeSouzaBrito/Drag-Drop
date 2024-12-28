@@ -1,4 +1,4 @@
->>>>>>>>>>>>>>>>>> em Portugues <<<<<<<<<<<<<<<<<<<<<<
+> > > > > > > > > > > > > > > > > > em Portugues <<<<<<<<<<<<<<<<<<<<<<
 
 Projeto Drag & Drop
 Visão Geral
@@ -18,7 +18,6 @@ Arrastar e soltar elementos
 
 Código limpo e bem documentado
 
-
 Como Executar o Projeto
 
 1. Clone o repositório:
@@ -29,8 +28,7 @@ Como Executar o Projeto
 
 3. Abra o arquivo index.html no seu navegador preferido.
 
-
->>>>>>>>>>> in English <<<<<<<<<<<<<<<<<
+> > > > > > > > > > > in English <<<<<<<<<<<<<<<<<
 
 Drag & Drop Project
 Overview

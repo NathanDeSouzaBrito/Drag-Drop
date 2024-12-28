@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener(function () {
   const tasks = ["tasksToDo", "tasksDoing", "tasksDone"];
 
   tasks.forEach((taskState) => {
