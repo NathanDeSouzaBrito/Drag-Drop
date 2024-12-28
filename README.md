@@ -13,6 +13,7 @@ CSS3
 JavaScript
 
 Funcionalidades
+
 Arrastar e soltar elementos
 
 Código limpo e bem documentado
@@ -33,6 +34,7 @@ CSS3
 JavaScript
 
 Features
+
 Drag and drop elements
 
 Clean and well-documented code
