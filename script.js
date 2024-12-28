@@ -1,4 +1,3 @@
-document.addEventListener(function () {
   const tasks = ["tasksToDo", "tasksDoing", "tasksDone"];
 
   tasks.forEach((taskState) => {
@@ -12,4 +11,3 @@ document.addEventListener(function () {
       dragClass: "taskDrag",
     });
   });
-});
