@@ -1,5 +1,8 @@
 ==================== em Português ====================
 
+Site: https://nathandesouzabrito.github.io/Drag-Drop/
+ 
+
 Projeto Drag & Drop
 Visão Geral
 Este projeto demonstra a funcionalidade de arrastar e soltar (Drag & Drop) utilizando JavaScript puro. Ele permite que os usuários arrastem elementos de uma área e os soltem em outra.
@@ -29,6 +32,8 @@ Como Executar o Projeto
 3. Abra o arquivo index.html no seu navegador preferido.
 
 ==================== in English ====================
+
+Site: https://nathandesouzabrito.github.io/Drag-Drop/
 
 Drag & Drop Project
 Overview
