@@ -1,4 +1,4 @@
-> > > > > > > > > > > > > > > > > > em Portugues <<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>> em Portugues <<<<<<<<<<<<<<<<<<<<<<
 
 Projeto Drag & Drop
 Visão Geral
@@ -28,7 +28,7 @@ Como Executar o Projeto
 
 3. Abra o arquivo index.html no seu navegador preferido.
 
-> > > > > > > > > > > in English <<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>> in English <<<<<<<<<<<<<<<<<
 
 Drag & Drop Project
 Overview
